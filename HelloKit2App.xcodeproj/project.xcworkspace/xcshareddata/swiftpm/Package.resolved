@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "hellokit2package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/codelynx/HelloKit2Package",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ede28eab8089a3bbee67aa3d512c9c200bcef7aa"
+      }
+    }
+  ],
+  "version" : 2
+}
